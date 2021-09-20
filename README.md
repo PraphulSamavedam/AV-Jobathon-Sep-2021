@@ -15,9 +15,7 @@ Effective forecasting for store sales gives essential insight into upcoming cash
 | Location_Type | Type of the location where store is situated. |
 | Region_Code | Code of the region where store is located. |
 | Date | Date of the sales. |
-| Holiday | On a given date, if there is a holiday 
-	1: Yes, 0: No |
-| Discount | On a given date, if a discount is offered
-	Yes: Yes, No: No |
+| Holiday | On a given date, if there is a holiday <br> 1: Yes, 0: No |
+| Discount | On a given date, if a discount is offered <br> Yes: Yes, No: No |
 | #Orders | On a given date, the number of orders received by the store. |
 | Sales | Total sales on a given date of the store. |
